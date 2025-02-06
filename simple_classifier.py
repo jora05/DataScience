@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import seaborn as sns
-import os as os 
+import os as editor 
 from matplotlib.colors import ListedColormap
 from sklearn import datasets, neighbors
 from sklearn.inspection import DecisionBoundaryDisplay
